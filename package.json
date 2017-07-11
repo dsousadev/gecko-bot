@@ -1,0 +1,11 @@
+{
+  "name": "gecko-bot",
+  "version": "1.0.0",
+  "description": "A trading bot in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex1100 <alex100.software@gmail.com>",
+  "license": "ISC"
+}
