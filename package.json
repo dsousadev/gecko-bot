@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "ccxt": "^0.1.146",
-    "dot-env": "0.0.1"
+    "dot-env": "0.0.1",
+    "dotenv": "^4.0.0",
+    "gemini-api": "^2.0.4"
   }
 }
